@@ -6,7 +6,7 @@
     },
     {
         "name": "prodsec",
-        "description": "Policy bundle related to TPA ingestion",
-        "uri": "github.com/sbomer-project/mequal-prodsec-policies//policy/prodsec"
+        "description": "Policy bundle related to TPA ingestion (CycloneDX and SPDX 2.3)",
+        "uri": "github.com/lucasgarfield/mequal-prodsec-policies//policy/prodsec?ref=778e2f9854a168a9ee57bae501c02a8ea582bcaf"
     }
 ]
